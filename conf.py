@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Self-balancing Car'
+project = 'Smart Motorhome Kit'
 copyright = 'keyestudio'
 author = 'keyestudio'
 
